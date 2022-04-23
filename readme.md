@@ -17,7 +17,7 @@ dlpEnforceSeverityInfoHours= 16
 3/ Define the amount of Incidents to return per API call. Max 10000
 dlpEnforceIncidentPageSize = 2
 
-4/  setDLPIncidentSLABreach.py will update the incidents iteratively per Severity
+4/  DLPIncidentSLABreach.py will update the incidents iteratively per Severity
 
 Prerequisites
     DLPIncidentSLABreach.py is written in Python 3.8
